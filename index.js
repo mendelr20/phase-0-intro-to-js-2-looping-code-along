@@ -8,10 +8,6 @@ function writeCards(names, event) {
   return newArray
 }
 
-
-
-
-
 function countDown(num) {
   let i = num;
   while (i >=0) {
